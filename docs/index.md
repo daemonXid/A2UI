@@ -1,5 +1,6 @@
 ---
 hide:
+  - navigation
   - toc
 ---
 
@@ -18,4 +19,6 @@ We will be sharing more soon. Sign up here to learn when we publish more details
 
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZIBsjtpwiVHdtz3Md8INPfY5FayZOlkVKgvUjzF_drgR2aw/viewform?embedded=true" width="1000" height="1042" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeZIBsjtpwiVHdtz3Md8INPfY5FayZOlkVKgvUjzF_drgR2aw/viewform?embedded=true" width="1000" height="1042" frameborder="0" marginheight="0" marginwidth="0" style="max-width: 100%;">Loading…</iframe>
+</div>
